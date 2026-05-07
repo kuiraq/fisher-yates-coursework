@@ -28,6 +28,8 @@
    python3 -m venv venv
    source venv/bin/activate
 3. Установите зависимости:
-    ```pip install matplotlib
+    ```bash
+    pip install matplotlib
 4. Запустите визуализацию:
-    ```python3 visualize.py
+    ```bash
+    python3 visualize.py
